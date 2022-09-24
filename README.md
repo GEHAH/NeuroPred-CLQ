@@ -43,7 +43,7 @@ In this study, we developed a deep learning model (NeuroPred-CLQ) based on the t
 - Download `NeuroPred-CLQ`to your computer
 
   ```bash
-  git clone https://github.com/GEHAH/NeuroPred-CLQ.git
+git lfs clone https://github.com/GEHAH/NeuroPred-CLQ.git
   ```
 
 
