@@ -1,4 +1,6 @@
-
+#### If the program download fails, please contact us. The email address is as follows.
+ml_csz@163.com
+Thank you
 # NeuroPred-CLQ
 NeuroPred-CLQ: Incorporating deep temporal convolutional networks and multi-head attention mechanism to predict neuropeptides
 
@@ -27,8 +29,7 @@ In this study, we developed a deep learning model (NeuroPred-CLQ) based on the t
 | data                | data         |
 | CLQ_model          | models of NeuroPred-CLQ           |
 
-## If the program download fails, please contact us. The email address is as follows.
-ml_csz@163.com
+
 ## Installation
 - Requirement
   
