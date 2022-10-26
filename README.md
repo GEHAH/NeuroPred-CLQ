@@ -1,3 +1,5 @@
+## If the program download fails, please contact us. The email address is as follows.
+ml_csz@163.com
 # NeuroPred-CLQ
 NeuroPred-CLQ: Incorporating deep temporal convolutional networks and multi-head attention mechanism to predict neuropeptides
 
@@ -43,6 +45,7 @@ In this study, we developed a deep learning model (NeuroPred-CLQ) based on the t
 - Download `NeuroPred-CLQ`to your computer
 
   ```bash
+git lfs install
 git lfs clone https://github.com/GEHAH/NeuroPred-CLQ.git
   ```
 
