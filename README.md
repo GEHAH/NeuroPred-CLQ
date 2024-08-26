@@ -1,4 +1,6 @@
-#### If the program download fails, please contact us. The email address is as follows.
+#### If the github download fails, you can visit one of the following links.
+https://drive.google.com/drive/folders/1WmS7xrmj2E-XTQi2qFUfZx0uWmgng-7y?usp=sharing
+If you have any other questions, you can contact me.
 ml_csz@163.com
 Thank you
 # NeuroPred-CLQ
